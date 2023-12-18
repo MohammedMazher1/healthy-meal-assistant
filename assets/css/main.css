@@ -5,6 +5,7 @@ footer {
 	background: linear-gradient(to right, #025707, #4caf50);
 }
 header,
+/*footer style */
 footer {
 	padding: 10px;
 	color: white;
